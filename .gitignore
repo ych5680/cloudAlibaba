@@ -1,0 +1,6 @@
+# Project exclude paths
+/cloudalibaba-config-nacos-client3377/target/
+/cloudalibaba-consumer-nacos-order83/target/
+/cloudalibaba-provider-payment9001/target/
+/cloudalibaba-provider-payment9002/target/
+/cloudalibaba-sentinel-service8401/target/
