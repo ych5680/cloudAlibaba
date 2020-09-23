@@ -4,7 +4,7 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>org.example</groupId>
+  <groupId>com.ych</groupId>
   <artifactId>com.ych.springcloud</artifactId>
   <packaging>pom</packaging>
   <version>1.0-SNAPSHOT</version>
@@ -14,6 +14,7 @@
     <module>cloudalibaba-consumer-nacos-order83</module>
     <module>cloudalibaba-config-nacos-client3377</module>
       <module>cloudalibaba-sentinel-service8401</module>
+    <module>common</module>
   </modules>
 
   <name>Maven</name>
